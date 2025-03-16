@@ -1,1 +1,8 @@
-# prescription_app
+streamlit
+transformers
+fuzzywuzzy
+spacy
+easyocr
+pytesseract
+requests
+pandas
